@@ -77,7 +77,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/46e6d9dfcb3eb9eae95d9.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/8b65a24ad72f6da1ae7d1.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 Flashkidd is hosted on one of heroku's Servers and doesn't require any donations as of now but \
